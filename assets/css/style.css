@@ -672,7 +672,7 @@ img {
 
 .services__modal-content {
   position: relative;
-  border-color: var(--container-color);
+  background-color: var(--container-color);
   padding: 1.5rem;
   border-radius: 0.5rem;
 }
@@ -708,7 +708,7 @@ img {
 /* Active Modal */
 .active-modal {
   opacity: 1;
-  visibility: hidden;
+  visibility: visible;
 }
 
 /* =========Portfolio============== */
