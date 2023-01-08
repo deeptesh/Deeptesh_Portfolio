@@ -799,6 +799,9 @@ img {
 }
 
 /* ==============Testimonial============== */
+.testimonial {
+  overflow: hidden;
+}
 .testimonial__data,
 .testimonial__header {
   display: flex;
